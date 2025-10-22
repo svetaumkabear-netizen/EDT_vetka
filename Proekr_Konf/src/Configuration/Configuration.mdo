@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="ceb5cd5e-5c8e-4769-809a-73cb49e3f4b6">
+  <name>Proekr_Konf</name>
+  <synonym>
+    <key>ru</key>
+    <value>Proekr konf</value>
+  </synonym>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="adcb94b9-c69c-4b75-b3e1-18a9b78ec879"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="8f11ab12-de69-48bc-b4aa-32ba53a315e2"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="048ef601-d75d-4a25-ac00-6ff449881b1f"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="f4db08ed-37c3-479f-b1b4-c0c8f4798ae4"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="d183bc22-f9e4-4f06-b0d8-52a9ad13e021"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="14059b0a-8253-494e-874a-dbbce7a9d80d"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="35465afe-589b-4137-a552-cbf05f099476"/>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <usedMobileApplicationFunctionalities>
+    <functionality>
+      <use>true</use>
+    </functionality>
+    <functionality>
+      <functionality>OSBackup</functionality>
+      <use>true</use>
+    </functionality>
+  </usedMobileApplicationFunctionalities>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.25</compatibilityMode>
+  <languages uuid="0ce7455a-c8ce-45c0-9f14-b32a4c457b07">
+    <name>Русский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Русский</value>
+    </synonym>
+    <languageCode>ru</languageCode>
+  </languages>
+  <roles>Role.ПолныеПрава</roles>
+  <constants>Constant.Константа1</constants>
+  <catalogs>Catalog.Контрагенты</catalogs>
+  <catalogs>Catalog.Номенклатура</catalogs>
+  <catalogs>Catalog.Справочник1</catalogs>
+  <documents>Document.Документ</documents>
+  <documents>Document.ПоступлениеТоваров</documents>
+  <documents>Document.РеализацияТоваров</documents>
+  <accumulationRegisters>AccumulationRegister.Товары</accumulationRegisters>
+</mdclass:Configuration>
