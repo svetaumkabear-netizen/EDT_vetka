@@ -7,7 +7,7 @@
     <listType typeId="94b19dec-e478-4889-ad21-52f189dc52d7" valueTypeId="61c2e9f2-1af2-4848-ab74-d0bbcd343a29"/>
     <managerType typeId="cc8c9bdb-1b2e-43e6-832f-5569cfd65d78" valueTypeId="a621fc97-d571-4d9a-b996-a7f601ede741"/>
   </producedTypes>
-  <name>Справочник1</name>
+  <name>Производители</name>
   <useStandardCommands>true</useStandardCommands>
   <inputByString>Catalog.Справочник1.StandardAttribute.Description</inputByString>
   <inputByString>Catalog.Справочник1.StandardAttribute.Code</inputByString>
